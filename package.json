@@ -5,6 +5,9 @@
   "main": "bot.js",
   "author": "Adam Urberg",
   "license": "MIT",
+  "scripts": {
+    "start": "node bot.js"
+  },
   "dependencies": {
     "discord.js": "^11.2.1",
     "giphy-js-sdk-core": "^1.0.2"
