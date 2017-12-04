@@ -1,0 +1,12 @@
+{
+  "name": "pupperbot",
+  "version": "0.0.1",
+  "description": "a bot to share the joy of puppers in a discord chat",
+  "main": "bot.js",
+  "author": "Adam Urberg",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "giphy-js-sdk-core": "^1.0.2"
+  }
+}
